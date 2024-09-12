@@ -1,0 +1,1 @@
+This repository contains original codes for major analyses in the manuscript 'Chemical exposomic landscape in esophageal squamous cell carcinoma'. All data are included in the 'Mock_data' directory. In each analysis folder, the codes for the major analyses and the plotting of the corresponding figure are included.
